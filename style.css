@@ -951,6 +951,13 @@ a {
   right: 5%;
 }
 
+.checker {
+  padding: 5px;
+  color: #99e2ce;
+  background-color: white;
+  border-radius: 100%;
+}
+
 .box__check {
   height: 100%;
   right: 0px;
